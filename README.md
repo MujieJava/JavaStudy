@@ -63,7 +63,7 @@
 
 - 【置顶】数据结构与算法知识点总结.pdf & 思维导图（很快就好哈...)
 
-[超详细！终于搞明白KMP算法](https://mp.weixin.qq.com/s/Tzd-VCNOrNJeKDVh_hVHLA)
+- [超详细！终于搞明白KMP算法](https://mp.weixin.qq.com/s/Tzd-VCNOrNJeKDVh_hVHLA)
 
 # 💾数据库
 
@@ -85,13 +85,13 @@
 <p align="center" style="color:blue">
   <a href="https://mp.weixin.qq.com/s/XWVcn-h-MpkFpohNWG0_8g">
     <h2 align="center">
-        领取资源、获取更新，直接扫码私我即可！
+        领取资源、获取更新，扫码关注公众号！
     </h2>
   </a>
 </p>
 
 <p align="center">
     <a href="https://mp.weixin.qq.com/s/XWVcn-h-MpkFpohNWG0_8g" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/Aimetoi/BlogImages/images/公众号.jpg" width=""/>
+        <img src="https://cdn.jsdelivr.net/gh/MujieJava/BlogImages/images/github仓库公众号二维码.jpg" width="" alt="公众号：木节学编程"/>
     </a>
 </p>

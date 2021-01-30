@@ -31,14 +31,6 @@
 
 ---
 
-# 🏓走近木节
-
-- [重要！我的公众号要改名了（一些感想...）](https://mp.weixin.qq.com/s/rH5LEXyvXOH_XMnuw7qiFQ)
-
-- [小小目标达成，1000粉啦！](https://mp.weixin.qq.com/s/JofLaIzAqXiaRIEN_uFbwQ)
-
-- [2021无畏前路，架舟而行](https://mp.weixin.qq.com/s/XWVcn-h-MpkFpohNWG0_8g)
-
 # 📘Java基础
 
 - 【置顶】Java 基础知识点总结.pdf & 思维导图（很快就好哈...)
@@ -73,6 +65,14 @@
 # 📝设计模式
 
 - 【置顶】设计模式知识点总结.pdf & 思维导图（很快就好哈...)
+
+# 🏓走近木节
+
+- [重要！我的公众号要改名了（一些感想...）](https://mp.weixin.qq.com/s/rH5LEXyvXOH_XMnuw7qiFQ)
+
+- [小小目标达成，1000粉啦！](https://mp.weixin.qq.com/s/JofLaIzAqXiaRIEN_uFbwQ)
+
+- [2021无畏前路，架舟而行](https://mp.weixin.qq.com/s/XWVcn-h-MpkFpohNWG0_8g)
 
 ---
 

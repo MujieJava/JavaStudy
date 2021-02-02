@@ -33,13 +33,21 @@
 
 # 📘Java基础
 
-- 【置顶】Java 基础知识点总结.pdf & 思维导图（很快就好哈...)
-
 - [Java构造器，看这篇够了](https://mp.weixin.qq.com/s/L3zblDGjhOCNtrh_ogpVLw)
 
 - [来了，Java初始化顺序](https://mp.weixin.qq.com/s/eeWhPS0HfxyA_kamBiDkag)
 
 - [热乎，Java的四种访问权限](https://mp.weixin.qq.com/s/nsu1FOJ4BTUntgVlpu3rgA)
+
+# 🔧数据结构与算法
+
+- [超详细！终于搞明白KMP算法](https://mp.weixin.qq.com/s/Tzd-VCNOrNJeKDVh_hVHLA)
+
+# 💾数据库
+
+
+# 📝设计模式
+
 
 # 🎉课设小项目
 
@@ -50,21 +58,6 @@
 - [JavaWeb课设-仿天猫项目（完整设计+源码）](https://mp.weixin.qq.com/s/TzxIkVvNEN_7vNkeK4lYyA)
 
 - [数据结构课设-单词检索统计程序（C语言版）](https://mp.weixin.qq.com/s/GcXBOp5j4bAvh5gbUTOw-A)
-
-# 🔧数据结构与算法
-
-- 【置顶】数据结构与算法知识点总结.pdf & 思维导图（很快就好哈...)
-
-- [超详细！终于搞明白KMP算法](https://mp.weixin.qq.com/s/Tzd-VCNOrNJeKDVh_hVHLA)
-
-# 💾数据库
-
-- 【置顶】MySQL 数据库知识点总结.pdf & 思维导图（很快就好哈...)
-
-
-# 📝设计模式
-
-- 【置顶】设计模式知识点总结.pdf & 思维导图（很快就好哈...)
 
 # 🏓走近木节
 

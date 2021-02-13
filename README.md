@@ -31,7 +31,7 @@
 
 ---
 
-# 📘Java基础
+## 📘Java基础
 
 - [Java构造器，看这篇够了](https://mp.weixin.qq.com/s/L3zblDGjhOCNtrh_ogpVLw)
 
@@ -39,19 +39,19 @@
 
 - [热乎，Java的四种访问权限](https://mp.weixin.qq.com/s/nsu1FOJ4BTUntgVlpu3rgA)
 
-# 🔧数据结构与算法
+## 🔧数据结构与算法
 
 - [超详细！终于搞明白KMP算法](https://mp.weixin.qq.com/s/Tzd-VCNOrNJeKDVh_hVHLA)
 
-# 💾数据库
+## 💾数据库
 
-# 📝设计模式
+## 📝设计模式
 
 - [送你一份设计模式入坑指南！写出诗一样的代码](https://mp.weixin.qq.com/s/hQnsxjQYBtZRuV6esiSV3A)
 
 
 
-# 🎉课设小项目
+## 🎉课设小项目
 
 - [你们要的表白代码，它来了！](https://mp.weixin.qq.com/s/zQBD3A183GwuPOrH8r3BxA)
 
@@ -61,7 +61,7 @@
 
 - [数据结构课设-单词检索统计程序（C语言版）](https://mp.weixin.qq.com/s/GcXBOp5j4bAvh5gbUTOw-A)
 
-# 🏓走近木节
+## 🏓走近木节
 
 - [重要！我的公众号要改名了（一些感想...）](https://mp.weixin.qq.com/s/rH5LEXyvXOH_XMnuw7qiFQ)
 
